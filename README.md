@@ -1,5 +1,11 @@
 # Elogbooks Test Backend Api
 
+#### Requirements
+1. git (https://git-scm.com/downloads)
+2. composer (https://getcomposer.org/download/)
+3. php with php-xml module (sudo apt-get install php-xml [ubuntu 16]) (https://symfony.com/doc/current/reference/requirements.html)
+4. mysql
+
 #### Installation
 1. Get composer https://getcomposer.org/download/
 2. Copy app/parameters.yml.dist to app/parameters.yml
